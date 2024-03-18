@@ -7,6 +7,7 @@ Initial_project initialProject = new Initial_project(1, "GitHub");
 
 static float avg(int [] arrs)
 {
+<<<<<<< HEAD
     int sum = 0;
     for (int z = 0; z < arrs.Length; z++)
     {
@@ -14,6 +15,15 @@ static float avg(int [] arrs)
     }
 
     return (float)sum / arrs.Length;
+=======
+    int sumy = 0;
+    for (int i = 0; i < arr.Length; i++)
+    {
+        sumy += arr[i];
+    }
+
+    return (float)sumy / arr.Length;
+>>>>>>> feature-new
 }
 float average = avg(new int[]{1,2,3});
 Console.WriteLine(average);
