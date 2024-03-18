@@ -10,4 +10,9 @@ public class Initial_project
         this.newField = newField;
         this.nameOfProject = nameOfProject;
     }
+
+    public int hashCode()
+    {
+        return newField + nameOfProject.Length + nameOfProject[0];
+    }
 }
