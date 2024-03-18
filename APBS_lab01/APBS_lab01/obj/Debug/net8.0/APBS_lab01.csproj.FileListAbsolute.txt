@@ -1,0 +1,15 @@
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\bin\Debug\net8.0\APBS_lab01.exe
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\bin\Debug\net8.0\APBS_lab01.deps.json
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\bin\Debug\net8.0\APBS_lab01.runtimeconfig.json
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\bin\Debug\net8.0\APBS_lab01.dll
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\bin\Debug\net8.0\APBS_lab01.pdb
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.AssemblyInfoInputs.cache
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.AssemblyInfo.cs
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.csproj.CoreCompileInputs.cache
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.sourcelink.json
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.dll
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\refint\APBS_lab01.dll
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.pdb
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\APBS_lab01.genruntimeconfig.cache
+C:\Users\janaz\OneDrive\firstRepository\APBS_lab01\APBS_lab01\obj\Debug\net8.0\ref\APBS_lab01.dll

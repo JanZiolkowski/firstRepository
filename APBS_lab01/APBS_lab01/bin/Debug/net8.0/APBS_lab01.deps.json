@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "APBS_lab01/1.0.0": {
+        "runtime": {
+          "APBS_lab01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APBS_lab01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
