@@ -5,15 +5,15 @@ using APBS_lab01;
 Console.WriteLine("Hello, World!");
 Initial_project initialProject = new Initial_project(1, "GitHub");
 
-static float avg(int [] arr)
+static float avg(int [] arrs)
 {
     int sum = 0;
-    for (int z = 0; z < arr.Length; z++)
+    for (int z = 0; z < arrs.Length; z++)
     {
-        sum += arr[z];
+        sum += arrs[z];
     }
 
-    return (float)sum / arr.Length;
+    return (float)sum / arrs.Length;
 }
 float average = avg(new int[]{1,2,3});
 Console.WriteLine(average);
