@@ -17,3 +17,22 @@ static float avg(int [] arr)
 }
 float average = avg(new int[]{1,2,3});
 Console.WriteLine(average);
+
+static int max(int[] arr)
+{
+    int max = arr[0];
+    if (arr.Length > 1)
+    {
+
+
+        for (int i = 1; i < arr.Length; i++)
+        {
+            if (arr[i] > max)
+            {
+                max = arr[i];
+            }
+        }
+    }
+
+    return max;
+}
